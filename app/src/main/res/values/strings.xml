@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyJobScheduler</string>
+    <string name="notifyOn">Enable Notifications</string>
+    <string name="notifyOff">Disable Notifications</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="create_notification">Create Notification</string>
+</resources>
